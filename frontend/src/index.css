@@ -1,0 +1,132 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── KaTeX styles ──────────────────────────────────────────────────── */
+@import "katex/dist/katex.min.css";
+
+/* ── Base layer ────────────────────────────────────────────────────── */
+@layer base {
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply bg-bg text-gray-900;
+    min-height: 100vh;
+  }
+
+  /* Scrollbar styling */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-border rounded-full;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-muted;
+  }
+}
+
+/* ── Component layer ───────────────────────────────────────────────── */
+@layer components {
+  .card {
+    @apply bg-surface rounded-card shadow-card border border-border;
+  }
+
+  .card-interactive {
+    @apply card transition-all duration-200;
+  }
+  .card-interactive:hover {
+    @apply shadow-card-lg border-accent/30;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2
+           px-6 py-3 rounded-lg
+           bg-navy text-white font-medium
+           transition-all duration-200
+           hover:bg-navy-light hover:shadow-glow
+           active:scale-[0.98]
+           disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:bg-navy disabled:hover:shadow-none;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2
+           px-5 py-2.5 rounded-lg
+           bg-surface text-navy font-medium
+           border border-border
+           transition-all duration-200
+           hover:border-accent/40 hover:bg-navy-50
+           active:scale-[0.98];
+  }
+
+  .badge {
+    @apply inline-flex items-center px-2.5 py-0.5
+           text-xs font-semibold uppercase tracking-wider
+           rounded-full;
+  }
+
+  .badge-easy {
+    @apply badge bg-emerald-50 text-emerald-700 border border-emerald-200;
+  }
+  .badge-medium {
+    @apply badge bg-amber-50 text-amber-700 border border-amber-200;
+  }
+  .badge-hard {
+    @apply badge bg-red-50 text-red-700 border border-red-200;
+  }
+
+  /* Progress bar */
+  .progress-bar {
+    @apply w-full h-2 bg-gray-100 rounded-full overflow-hidden;
+  }
+  .progress-fill {
+    @apply h-full rounded-full transition-all duration-500 ease-out;
+    background: linear-gradient(90deg, #4A6FA5, #2D8B5F);
+  }
+
+  /* Option cards */
+  .option-card {
+    @apply card-interactive px-5 py-4 cursor-pointer select-none
+           flex items-start gap-3;
+  }
+  .option-card.selected {
+    @apply border-accent bg-navy-50;
+  }
+  .option-card.correct {
+    @apply border-success bg-emerald-50 cursor-default;
+  }
+  .option-card.incorrect {
+    @apply border-error bg-red-50 cursor-default;
+  }
+  .option-card.locked {
+    @apply cursor-default opacity-80;
+  }
+  .option-card.locked:hover {
+    @apply shadow-card border-border;
+  }
+
+  /* Chat */
+  .chat-bubble {
+    @apply px-4 py-3 rounded-2xl max-w-[85%] leading-relaxed;
+  }
+  .chat-bubble-user {
+    @apply chat-bubble bg-navy text-white ml-auto rounded-br-md;
+  }
+  .chat-bubble-ai {
+    @apply chat-bubble bg-gray-100 text-gray-900 mr-auto rounded-bl-md;
+  }
+}
+
+/* ── Utility layer ─────────────────────────────────────────────────── */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

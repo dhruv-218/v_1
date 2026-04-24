@@ -1,0 +1,182 @@
+[
+  {
+    "type": "mcq",
+    "difficulty": "easy",
+    "topic": "Python in Data Science",
+    "page_number": 1,
+    "question": "What is a key skill in data science related to Python?",
+    "options": [
+      "A. Python libraries",
+      "B. Python frameworks",
+      "C. Python programming",
+      "D. Python data processing"
+    ],
+    "answer": "A",
+    "solution": "Python is essential for data processing, analysis, and automation, making it a key skill in data science.",
+    "id": 1,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "\u2013 Delivered a seminar on Quantum Computing for Ph.D. scholars, covering both theoretical foundations and live demonstrations\nCERTIFICATIONS\nArtificial Intelligence /Machine learning for Geodata Analysis\n2024\nISRO-IIRS\nPython for Data Science\n2024\nNPTEL (IITM)\nData Science & Buisness Intelligence\n202"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "easy",
+    "topic": "Python",
+    "page_number": 1,
+    "question": "Which Python library is used for data analysis?",
+    "options": [
+      "A. pandas",
+      "B. numpy",
+      "C. scikit-learn",
+      "D. Qlik"
+    ],
+    "answer": "A",
+    "solution": "Python libraries like pandas and numpy are key for data analysis, while scikit-learn is used for machine learning tasks. Qlik is a data visualization tool, so the correct answer is pandas.",
+    "id": 2,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "\u2013 Delivered a seminar on Quantum Computing for Ph.D. scholars, covering both theoretical foundations and live demonstrations\nCERTIFICATIONS\nArtificial Intelligence /Machine learning for Geodata Analysis\n2024\nISRO-IIRS\nPython for Data Science\n2024\nNPTEL (IITM)\nData Science & Buisness Intelligence\n202"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "easy",
+    "topic": "<short name>",
+    "page_number": 1,
+    "question": "Which certification does the individual hold that aligns with their field of interest?",
+    "answer": "A",
+    "solution": "The individual holds ISRO-IIRS certification, which aligns with their expertise in Geodata Analysis. This certification demonstrates their proficiency in handling geospatial data.",
+    "options": [
+      "A. ISRO-IIRS",
+      "B. NPTEL",
+      "C. Qiskit",
+      "D. Geopandas"
+    ],
+    "id": 3,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "\u2013 Delivered a seminar on Quantum Computing for Ph.D. scholars, covering both theoretical foundations and live demonstrations\nCERTIFICATIONS\nArtificial Intelligence /Machine learning for Geodata Analysis\n2024\nISRO-IIRS\nPython for Data Science\n2024\nNPTEL (IITM)\nData Science & Buisness Intelligence\n202"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "medium",
+    "topic": "<short name>",
+    "page_number": 1,
+    "question": "What is the primary focus of the student's work in AI and data science?",
+    "options": [
+      "A. Developing quantum computing simulations",
+      "B. Creating data science applications",
+      "C. Managing database systems",
+      "D. Building web-based frameworks"
+    ],
+    "answer": "B",
+    "solution": "The student's primary focus is on developing data science applications, as highlighted by their work on Quantum Computing and seminars. This aligns with their specialization in AI and data science.",
+    "id": 4,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "\u2013 Delivered a seminar on Quantum Computing for Ph.D. scholars, covering both theoretical foundations and live demonstrations\nCERTIFICATIONS\nArtificial Intelligence /Machine learning for Geodata Analysis\n2024\nISRO-IIRS\nPython for Data Science\n2024\nNPTEL (IITM)\nData Science & Buisness Intelligence\n202"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "medium",
+    "topic": "Python in Data Science",
+    "page_number": 1,
+    "question": "What is the primary role of Python in data science?",
+    "options": [
+      "A. It is used for data visualization",
+      "B. It is used for data preprocessing",
+      "C. It is used for machine learning",
+      "D. It is used for data storage"
+    ],
+    "answer": "C",
+    "solution": "Python is primarily used for machine learning, data preprocessing, and data analysis, which are core aspects of data science. The correct answer is C.",
+    "id": 5,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "\u2013 Delivered a seminar on Quantum Computing for Ph.D. scholars, covering both theoretical foundations and live demonstrations\nCERTIFICATIONS\nArtificial Intelligence /Machine learning for Geodata Analysis\n2024\nISRO-IIRS\nPython for Data Science\n2024\nNPTEL (IITM)\nData Science & Buisness Intelligence\n202"
+    ]
+  },
+  {
+    "type": "short_answer",
+    "difficulty": "medium",
+    "topic": "AI/Quantum",
+    "page_number": 1,
+    "question": "How does the integration of quantum computing with AI technologies enhance supply chain optimization?",
+    "answer": "The integration of quantum computing with AI technologies enhances supply chain optimization by enabling quantum-assisted solutions for NP-hard problems, such as supply chain optimization, which leverage quantum algorithms to find optimal solutions more efficiently than classical methods.",
+    "solution": "The integration of quantum computing with AI technologies enhances supply chain optimization by enabling quantum-assisted solutions for NP-hard problems, such as supply chain optimization, which leverage quantum algorithms to find optimal solutions more efficiently than classical methods.",
+    "id": 6,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "rendering and state management.\n\u2013 Integrated the Python backend (Qiskit) with the Next.js frontend using FastAPI to provide a seamless and efficient user\nexperience for analyzing supply chain optimizations.\n\u2013 Built a quantum-assisted solution for an NP-hard supply chain optimization problem.\nPROJECT"
+    ]
+  },
+  {
+    "type": "short_answer",
+    "difficulty": "medium",
+    "topic": "Python",
+    "page_number": 1,
+    "question": "What is the role of Python in the projects mentioned, and how is it applied in the context of quantum-assisted supply chain optimization?",
+    "answer": "Python is central to the projects, with applications in quantum-assisted supply chain optimization. It serves as the backend for Qiskit, enabling quantum algorithms, and is used to implement GAN architectures in DCGAN. The integration with Next.js via FastAPI ensures seamless user experience for AI-driven supply chain analysis.",
+    "solution": "Python is leveraged for quantum algorithms and backend development using Qiskit, along with frameworks like PyTorch for GAN-based image generation. The integration with Next.js via FastAPI provides a seamless frontend experience, showcasing Python's role in both backend and frontend technologies.",
+    "id": 7,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "rendering and state management.\n\u2013 Integrated the Python backend (Qiskit) with the Next.js frontend using FastAPI to provide a seamless and efficient user\nexperience for analyzing supply chain optimizations.\n\u2013 Built a quantum-assisted solution for an NP-hard supply chain optimization problem.\nPROJECT"
+    ]
+  },
+  {
+    "type": "short_answer",
+    "difficulty": "medium",
+    "topic": "Quantum-assisted AI applications",
+    "page_number": 1,
+    "question": "What is the candidate's approach to quantum-assisted AI applications?",
+    "answer": "The candidate leveraged Qiskit to develop quantum-assisted solutions for NP-hard supply chain optimization, integrating Python with the Next.js frontend using FastAPI to create a seamless user experience.",
+    "solution": "The candidate's approach involved using Qiskit to model quantum algorithms and integrating Python with the Next.js frontend via FastAPI to build a quantum-aided AI solution for supply chain optimization, demonstrating their technical expertise in quantum computing and AI integration.",
+    "id": 8,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "rendering and state management.\n\u2013 Integrated the Python backend (Qiskit) with the Next.js frontend using FastAPI to provide a seamless and efficient user\nexperience for analyzing supply chain optimizations.\n\u2013 Built a quantum-assisted solution for an NP-hard supply chain optimization problem.\nPROJECT"
+    ]
+  },
+  {
+    "type": "true_false",
+    "difficulty": "hard",
+    "topic": "AI & Quantum Computing",
+    "page_number": 1,
+    "question": "True or False? Dhruv Solanki has developed a quantum-assisted solution for an NP-hard supply chain optimization problem using Qiskit and Next.js.",
+    "answer": "True",
+    "solution": "Dhruv Solanki developed a quantum-assisted solution for an NP-hard supply chain optimization problem, integrating Qiskit with Next.js and FastAPI. This aligns with his expertise in AI and quantum computing. The project demonstrates his ability to apply advanced technologies to solve complex problems in the field.",
+    "id": 9,
+    "context_chunks": [
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "rendering and state management.\n\u2013 Integrated the Python backend (Qiskit) with the Next.js frontend using FastAPI to provide a seamless and efficient user\nexperience for analyzing supply chain optimizations.\n\u2013 Built a quantum-assisted solution for an NP-hard supply chain optimization problem.\nPROJECT"
+    ]
+  },
+  {
+    "type": "true_false",
+    "difficulty": "hard",
+    "topic": "AI & Data Science",
+    "page_number": 1,
+    "question": "Is the GAN project developed using PyTorch?",
+    "answer": "True",
+    "solution": "The context explicitly states that the GAN project was implemented using PyTorch, as it mentions 'Implemented an encoder-decoder based generator and a convolutional discriminator using PyTorch'.",
+    "id": 10,
+    "context_chunks": [
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "rendering and state management.\n\u2013 Integrated the Python backend (Qiskit) with the Next.js frontend using FastAPI to provide a seamless and efficient user\nexperience for analyzing supply chain optimizations.\n\u2013 Built a quantum-assisted solution for an NP-hard supply chain optimization problem.\nPROJECT"
+    ]
+  }
+]

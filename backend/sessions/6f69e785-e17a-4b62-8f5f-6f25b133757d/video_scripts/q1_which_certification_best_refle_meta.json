@@ -1,0 +1,7 @@
+{
+  "question_id": 1,
+  "topic": "Which certification best reflects a stud",
+  "class_name": "Q1_Whichcertification",
+  "run_command": "manim -pql q1_which_certification_best_refle_manim.py Q1_Whichcertification",
+  "script_file": "sessions/6f69e785-e17a-4b62-8f5f-6f25b133757d/video_scripts/q1_which_certification_best_refle_manim.py"
+}

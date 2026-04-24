@@ -1,0 +1,182 @@
+[
+  {
+    "type": "mcq",
+    "difficulty": "easy",
+    "topic": "<short name>",
+    "page_number": 1,
+    "question": "Which certification best reflects a student's expertise in AI and data science?",
+    "answer": "A",
+    "solution": "The certification 'Artificial Intelligence / Machine learning for Geodata Analysis' demonstrates expertise in geospatial AI, which directly relates to the student's field of interest. This highlights their knowledge in specific technologies and applications.",
+    "options": [
+      "A. Artificial Intelligence for Geodata Analysis",
+      "B. Python for Data Science",
+      "C. Qiskit",
+      "D. Earth Engine API"
+    ],
+    "id": 1,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "\u2013 Delivered a seminar on Quantum Computing for Ph.D. scholars, covering both theoretical foundations and live demonstrations\nCERTIFICATIONS\nArtificial Intelligence /Machine learning for Geodata Analysis\n2024\nISRO-IIRS\nPython for Data Science\n2024\nNPTEL (IITM)\nData Science & Buisness Intelligence\n202"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "easy",
+    "topic": "Quantum Computing",
+    "page_number": 1,
+    "question": "What is the main focus of your work in AI and data science?",
+    "options": [
+      "A. Quantum computing knowledge",
+      "B. Data science",
+      "C. Python programming",
+      "D. Experience in AI consulting"
+    ],
+    "answer": "A",
+    "solution": "The question is asking about the main focus of your work in AI and data science. Since you mentioned developing quantum computing knowledge, the correct answer is A. This shows your strong understanding of the topic.",
+    "id": 2,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "\u2013 Delivered a seminar on Quantum Computing for Ph.D. scholars, covering both theoretical foundations and live demonstrations\nCERTIFICATIONS\nArtificial Intelligence /Machine learning for Geodata Analysis\n2024\nISRO-IIRS\nPython for Data Science\n2024\nNPTEL (IITM)\nData Science & Buisness Intelligence\n202"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "easy",
+    "topic": "<short name>",
+    "page_number": 1,
+    "question": "What is the primary focus of Python in the context of AI and data science?",
+    "options": [
+      "A. Python is used for data analysis",
+      "B. Python is used for machine learning",
+      "C. Python is used for web development",
+      "D. Python is used for database management"
+    ],
+    "answer": "B",
+    "solution": "Python is primarily used for machine learning, which is a core aspect of AI and data science. Its role in handling large datasets and computational tasks is foundational to these fields.",
+    "id": 3,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "\u2013 Delivered a seminar on Quantum Computing for Ph.D. scholars, covering both theoretical foundations and live demonstrations\nCERTIFICATIONS\nArtificial Intelligence /Machine learning for Geodata Analysis\n2024\nISRO-IIRS\nPython for Data Science\n2024\nNPTEL (IITM)\nData Science & Buisness Intelligence\n202"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "medium",
+    "topic": "SQL and Python",
+    "page_number": 1,
+    "question": "Which combination of skills best suits a data scientist?",
+    "options": [
+      "A. SQL and Python",
+      "B. Python and SQL",
+      "C. SQL and Java",
+      "D. Python and SQL"
+    ],
+    "answer": "A",
+    "solution": "A combination of SQL and Python is ideal for a data scientist. SQL is essential for database management, while Python provides the necessary libraries for data analysis, machine learning, and visualization. Both skills complement each other to enable effective data science projects.",
+    "id": 4,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "\u2013 Delivered a seminar on Quantum Computing for Ph.D. scholars, covering both theoretical foundations and live demonstrations\nCERTIFICATIONS\nArtificial Intelligence /Machine learning for Geodata Analysis\n2024\nISRO-IIRS\nPython for Data Science\n2024\nNPTEL (IITM)\nData Science & Buisness Intelligence\n202"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "medium",
+    "topic": "Python for Data Science",
+    "page_number": 1,
+    "question": "Which of the following technologies is primarily used in data science?",
+    "options": [
+      "A. Python",
+      "B. SQL",
+      "C. Java",
+      "D. C++"
+    ],
+    "answer": "A",
+    "solution": "Python is the primary language used in data science due to its robust libraries like pandas, NumPy, and scikit-learn, which facilitate data manipulation and analysis. SQL is essential for database management, while Java and C++ are used for specific applications.",
+    "id": 5,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "\u2013 Delivered a seminar on Quantum Computing for Ph.D. scholars, covering both theoretical foundations and live demonstrations\nCERTIFICATIONS\nArtificial Intelligence /Machine learning for Geodata Analysis\n2024\nISRO-IIRS\nPython for Data Science\n2024\nNPTEL (IITM)\nData Science & Buisness Intelligence\n202"
+    ]
+  },
+  {
+    "type": "short_answer",
+    "difficulty": "medium",
+    "topic": "Integration of Python and Quantum Computing for AI Projects",
+    "page_number": 1,
+    "question": "How did Dhruv Solanki integrate Python with quantum computing frameworks like Qiskit in his AI project for supply chain optimization?",
+    "answer": "Dhruv utilized Qiskit, a quantum computing framework, to develop a quantum-assisted solution for an NP-hard supply chain optimization problem, demonstrating the integration of quantum computing with Python for AI applications.",
+    "solution": "Dhruv leveraged Qiskit to model quantum algorithms for supply chain optimization, demonstrating the integration of quantum computing with Python for AI projects. This integration allowed him to address complex NP-hard problems using quantum-based techniques, showcasing the practical application of quantum computing in AI development.",
+    "id": 6,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "rendering and state management.\n\u2013 Integrated the Python backend (Qiskit) with the Next.js frontend using FastAPI to provide a seamless and efficient user\nexperience for analyzing supply chain optimizations.\n\u2013 Built a quantum-assisted solution for an NP-hard supply chain optimization problem.\nPROJECT"
+    ]
+  },
+  {
+    "type": "short_answer",
+    "difficulty": "medium",
+    "topic": "Python and AI Development",
+    "page_number": 1,
+    "question": "What is Dhruv Solanki's primary technical skill and how has it been applied in his projects?",
+    "answer": "Dhruv Solanki is a strong Python developer with expertise in quantum computing and AI, as evidenced by his work with Qiskit and projects like DCGAN using PyTorch for GAN architectures. He leverages Python for backend development and quantum-assisted solutions in supply chain optimization.",
+    "solution": "Dhruv's primary technical skill is Python, which he integrates with Qiskit for quantum computing and Next.js for frontend development. His projects highlight his ability to apply AI technologies, such as GANs, to solve real-world problems using PyTorch, showcasing his proficiency in both backend and quantum computing domains.",
+    "id": 7,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "rendering and state management.\n\u2013 Integrated the Python backend (Qiskit) with the Next.js frontend using FastAPI to provide a seamless and efficient user\nexperience for analyzing supply chain optimizations.\n\u2013 Built a quantum-assisted solution for an NP-hard supply chain optimization problem.\nPROJECT"
+    ]
+  },
+  {
+    "type": "short_answer",
+    "difficulty": "medium",
+    "topic": "AI and Data Science Projects",
+    "page_number": 1,
+    "question": "What is a common AI project that combines Python and machine learning libraries?",
+    "answer": "A project that uses PyTorch for GAN architecture and SQL for data management to optimize supply chain operations.",
+    "solution": "The integration of Python (Qiskit for quantum computing) and machine learning libraries (Transformers, PyTorch) enhanced the quantum-assisted solution by enabling efficient data processing and algorithmic innovation for NP-hard optimization problems.",
+    "id": 8,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "rendering and state management.\n\u2013 Integrated the Python backend (Qiskit) with the Next.js frontend using FastAPI to provide a seamless and efficient user\nexperience for analyzing supply chain optimizations.\n\u2013 Built a quantum-assisted solution for an NP-hard supply chain optimization problem.\nPROJECT"
+    ]
+  },
+  {
+    "type": "true_false",
+    "difficulty": "hard",
+    "topic": "Artificial Intelligence and Data Science",
+    "page_number": 1,
+    "question": "Is Dhruv Solanki's knowledge in Python and MySQL a strong indicator of his expertise in the field?",
+    "answer": "True",
+    "solution": "The context explicitly states that Dhruv has strong knowledge in Python and MySQL, along with foundational skills in Java and JavaScript. This directly supports the claim that his expertise in these areas is a strong indicator of his proficiency in the field.",
+    "id": 9,
+    "context_chunks": [
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "rendering and state management.\n\u2013 Integrated the Python backend (Qiskit) with the Next.js frontend using FastAPI to provide a seamless and efficient user\nexperience for analyzing supply chain optimizations.\n\u2013 Built a quantum-assisted solution for an NP-hard supply chain optimization problem.\nPROJECT"
+    ]
+  },
+  {
+    "type": "true_false",
+    "difficulty": "hard",
+    "topic": "Quantum Computing & AI",
+    "page_number": 1,
+    "question": "Is Dhruv Solanki involved in quantum computing?",
+    "answer": "True",
+    "solution": "Dhruv Solanki has integrated Qiskit, a quantum computing framework, with his Next.js backend using FastAPI to develop quantum-assisted solutions for NP-hard supply chain optimization. This indicates his involvement in quantum computing technologies.",
+    "id": 10,
+    "context_chunks": [
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "rendering and state management.\n\u2013 Integrated the Python backend (Qiskit) with the Next.js frontend using FastAPI to provide a seamless and efficient user\nexperience for analyzing supply chain optimizations.\n\u2013 Built a quantum-assisted solution for an NP-hard supply chain optimization problem.\nPROJECT"
+    ]
+  }
+]

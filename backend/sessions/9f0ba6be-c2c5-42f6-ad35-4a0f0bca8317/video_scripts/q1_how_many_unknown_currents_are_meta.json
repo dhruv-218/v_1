@@ -1,0 +1,7 @@
+{
+  "question_id": 1,
+  "topic": "How many unknown currents are determined",
+  "class_name": "Q1_Howmanyunknowncurr",
+  "run_command": "manim -pql q1_how_many_unknown_currents_are_manim.py Q1_Howmanyunknowncurr",
+  "script_file": "sessions/9f0ba6be-c2c5-42f6-ad35-4a0f0bca8317/video_scripts/q1_how_many_unknown_currents_are_manim.py"
+}

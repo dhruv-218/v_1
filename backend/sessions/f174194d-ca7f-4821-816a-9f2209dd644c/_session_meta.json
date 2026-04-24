@@ -1,0 +1,16 @@
+{
+  "id": "f174194d-ca7f-4821-816a-9f2209dd644c",
+  "pdf_name": "dhruv_resume_1.pdf",
+  "pdf_path": "sessions/f174194d-ca7f-4821-816a-9f2209dd644c/dhruv_resume_1.pdf",
+  "output_dir": "sessions/f174194d-ca7f-4821-816a-9f2209dd644c",
+  "status": "ready",
+  "stage": "ready",
+  "progress": 100,
+  "message": "Ready!",
+  "created_at": "",
+  "video_jobs": {
+    "1": "rendered",
+    "7": "failed",
+    "8": "failed"
+  }
+}

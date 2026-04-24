@@ -1,0 +1,182 @@
+[
+  {
+    "type": "mcq",
+    "difficulty": "easy",
+    "topic": "Skills and Certifications",
+    "page_number": 1,
+    "question": "Which of the following is a certification related to AI and data science?",
+    "options": [
+      "A. ISRO-IIRS",
+      "B. NPTEL",
+      "C. Qiskit",
+      "D. Geomap"
+    ],
+    "answer": "B.",
+    "solution": "NPTEL (IITM) is a certification for data science, aligning with the student's experience in AI and data science.",
+    "id": 1,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "\u2013 Delivered a seminar on Quantum Computing for Ph.D. scholars, covering both theoretical foundations and live demonstrations\nCERTIFICATIONS\nArtificial Intelligence /Machine learning for Geodata Analysis\n2024\nISRO-IIRS\nPython for Data Science\n2024\nNPTEL (IITM)\nData Science & Buisness Intelligence\n202"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "easy",
+    "topic": "Python",
+    "page_number": 1,
+    "question": "Which of the following is a Python library used for data analysis?",
+    "options": [
+      "A. Qiskit",
+      "B. Transformers",
+      "C. pandas",
+      "D. Ultralytics"
+    ],
+    "answer": "C",
+    "solution": "The correct answer is C. pandas is used for data manipulation and analysis, while Qiskit and Ultralytics are for quantum computing and YOLO for object detection.",
+    "id": 2,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "\u2013 Delivered a seminar on Quantum Computing for Ph.D. scholars, covering both theoretical foundations and live demonstrations\nCERTIFICATIONS\nArtificial Intelligence /Machine learning for Geodata Analysis\n2024\nISRO-IIRS\nPython for Data Science\n2024\nNPTEL (IITM)\nData Science & Buisness Intelligence\n202"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "easy",
+    "topic": "<short name>",
+    "page_number": 1,
+    "question": "What is the primary language used by the individual in their projects?",
+    "answer": "A",
+    "solution": "The individual is a strong Python developer, which aligns with their skills. Their proficiency in Python is highlighted in their professional summary and certifications.",
+    "options": [
+      "A. Python",
+      "B. Java",
+      "C. JavaScript",
+      "D. C"
+    ],
+    "id": 3,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "\u2013 Delivered a seminar on Quantum Computing for Ph.D. scholars, covering both theoretical foundations and live demonstrations\nCERTIFICATIONS\nArtificial Intelligence /Machine learning for Geodata Analysis\n2024\nISRO-IIRS\nPython for Data Science\n2024\nNPTEL (IITM)\nData Science & Buisness Intelligence\n202"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "medium",
+    "topic": "<short name>",
+    "page_number": 1,
+    "question": "Which certification is most relevant to data science and AI?",
+    "options": [
+      "A. Artificial Intelligence / Machine learning for Geodata Analysis",
+      "B. ISRO-IIRS",
+      "C. NPTEL (IITM)",
+      "D. Data Science & Business Intelligence"
+    ],
+    "answer": "A",
+    "solution": "The correct answer is A. The certification 'Artificial Intelligence / Machine learning for Geodata Analysis' aligns with data science and AI applications, making it the most relevant to the student's expertise in AI and data science.",
+    "id": 4,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "\u2013 Delivered a seminar on Quantum Computing for Ph.D. scholars, covering both theoretical foundations and live demonstrations\nCERTIFICATIONS\nArtificial Intelligence /Machine learning for Geodata Analysis\n2024\nISRO-IIRS\nPython for Data Science\n2024\nNPTEL (IITM)\nData Science & Buisness Intelligence\n202"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "medium",
+    "topic": "<short name>",
+    "page_number": 1,
+    "question": "Which certification does the individual have in AI and data science?",
+    "answer": "C",
+    "solution": "The individual has a certification in Python for Data Science, which directly relates to their expertise in AI and data science. This certification highlights their proficiency in the field.",
+    "options": [
+      "A. Artificial Intelligence / Machine learning for Geodata Analysis",
+      "B. ISRO-IIRS",
+      "C. Python for Data Science",
+      "D. Data Science & Buisness Intelligence"
+    ],
+    "id": 5,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "\u2013 Delivered a seminar on Quantum Computing for Ph.D. scholars, covering both theoretical foundations and live demonstrations\nCERTIFICATIONS\nArtificial Intelligence /Machine learning for Geodata Analysis\n2024\nISRO-IIRS\nPython for Data Science\n2024\nNPTEL (IITM)\nData Science & Buisness Intelligence\n202"
+    ]
+  },
+  {
+    "type": "short_answer",
+    "difficulty": "medium",
+    "topic": "AI Applications in Data Science Projects",
+    "page_number": 1,
+    "question": "What AI applications are being used in data science projects, such as the GAN-based DCGAN project?",
+    "answer": "The AI applications include the use of Python and frameworks like FastAPI for backend development, along with libraries such as PyTorch for building quantum-assisted solutions for supply chain optimization. The project involved implementing an encoder-decoder GAN architecture using PyTorch to generate image data for training purposes.",
+    "solution": "The AI applications in data science projects involve leveraging Python for backend development, integrating frameworks like FastAPI, and utilizing libraries such as PyTorch for building quantum-assisted solutions. The DCGAN project demonstrates the application of AI in image generation, showcasing the integration of GAN architecture with PyTorch for deep learning tasks.",
+    "id": 6,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "rendering and state management.\n\u2013 Integrated the Python backend (Qiskit) with the Next.js frontend using FastAPI to provide a seamless and efficient user\nexperience for analyzing supply chain optimizations.\n\u2013 Built a quantum-assisted solution for an NP-hard supply chain optimization problem.\nPROJECT"
+    ]
+  },
+  {
+    "type": "short_answer",
+    "difficulty": "medium",
+    "topic": "Image Generation",
+    "page_number": 1,
+    "question": "What is a project that Dhruv Solanki developed using PyTorch?",
+    "answer": "Dhruv Solanki developed an encoder-decoder-based generator using PyTorch for an image generation project, implementing a GAN architecture.",
+    "solution": "The project involved creating an image generation model using the GAN architecture, leveraging PyTorch for the generator and discriminator components. This demonstrates his expertise in deep learning frameworks and his ability to tackle complex problems in AI.",
+    "id": 7,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "rendering and state management.\n\u2013 Integrated the Python backend (Qiskit) with the Next.js frontend using FastAPI to provide a seamless and efficient user\nexperience for analyzing supply chain optimizations.\n\u2013 Built a quantum-assisted solution for an NP-hard supply chain optimization problem.\nPROJECT"
+    ]
+  },
+  {
+    "type": "short_answer",
+    "difficulty": "medium",
+    "topic": "Python and AI Technologies",
+    "page_number": 1,
+    "question": "How has Dhruv Solanki applied Python and AI technologies to solve real-world challenges?",
+    "answer": "Dhruv Solanki leveraged Python in his projects to develop a quantum-assisted solution for an NP-hard supply chain optimization problem, integrating Qiskit for quantum computing and FastAPI with Next.js for a seamless backend and frontend experience.",
+    "solution": "Dhruv utilized Python for backend development with Qiskit to model quantum-assisted algorithms, and his projects demonstrate his proficiency in PyTorch for deep learning, TensorFlow for image generation, and FastAPI for building scalable applications, showcasing his expertise in AI and data science.",
+    "id": 8,
+    "context_chunks": [
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "rendering and state management.\n\u2013 Integrated the Python backend (Qiskit) with the Next.js frontend using FastAPI to provide a seamless and efficient user\nexperience for analyzing supply chain optimizations.\n\u2013 Built a quantum-assisted solution for an NP-hard supply chain optimization problem.\nPROJECT"
+    ]
+  },
+  {
+    "type": "true_false",
+    "difficulty": "hard",
+    "topic": "AI & Data Science",
+    "page_number": 1,
+    "question": "True or False? Is GAN used in Dhruv's projects?",
+    "answer": "True",
+    "solution": "Dhruv developed a GAN-based image generation project using PyTorch, demonstrating his expertise in AI and data science. The statement is true as per the context provided.",
+    "id": 9,
+    "context_chunks": [
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "rendering and state management.\n\u2013 Integrated the Python backend (Qiskit) with the Next.js frontend using FastAPI to provide a seamless and efficient user\nexperience for analyzing supply chain optimizations.\n\u2013 Built a quantum-assisted solution for an NP-hard supply chain optimization problem.\nPROJECT"
+    ]
+  },
+  {
+    "type": "true_false",
+    "difficulty": "hard",
+    "topic": "AI and Data Science",
+    "page_number": 1,
+    "question": "Is Dhruv Solanki's quantum-assisted supply chain optimization project a true/false question?",
+    "answer": "True",
+    "solution": "True. Dhruv integrated quantum computing with his Python backend using Qiskit and Next.js for a seamless AI solution, demonstrating his expertise in AI and quantum technologies.",
+    "id": 10,
+    "context_chunks": [
+      "Dhruv Solanki\ndhruv.16940@sakec.ac.in\nLinkedIn\n|\nGitHub\n|\n+91-9175922217\nMumbai, India\nPROFESSIONAL SUMMARY\nA Fourth-year student specializing in Artificial Intelligence and Data Science with Honours in CyberSecurity, I have developed\na strong knowledge in Python and MySQL,along with foundational kn",
+      "MUI, Pydub-AudioSegment, Selenium, SpeechRecognition, earthengine-api, geemap, opencv-python, torch, torchvision, pillow,\nlivekit, google-generativeai.\n\u2022 Database: My SQL, MongoDB\n\u2022 API: FastAPI\n\u2022 Framework: NextJs\n\u2022 Platforms: IBM Cloud, AWS, Google Earth Engine, Nasa Earth Data, IBM Quantum, WEKA,",
+      "rendering and state management.\n\u2013 Integrated the Python backend (Qiskit) with the Next.js frontend using FastAPI to provide a seamless and efficient user\nexperience for analyzing supply chain optimizations.\n\u2013 Built a quantum-assisted solution for an NP-hard supply chain optimization problem.\nPROJECT"
+    ]
+  }
+]

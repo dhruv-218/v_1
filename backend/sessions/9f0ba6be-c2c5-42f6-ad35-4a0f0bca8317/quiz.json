@@ -1,0 +1,183 @@
+[
+  {
+    "type": "mcq",
+    "difficulty": "easy",
+    "topic": "<short name>electric current",
+    "page_number": 20,
+    "question": "How many unknown currents are determined by applying Kirchhoff's first rule?",
+    "options": [
+      "A. Three unknowns",
+      "B. Two",
+      "C. One",
+      "D. Four"
+    ],
+    "answer": "A",
+    "solution": "After applying Kirchhoff's first rule at each junction, we determine three unknown currents I1, I2, and I3. This reduces the number of unknowns from the initial case to three, which can then be solved using Kirchhoff's second rule.",
+    "id": 1,
+    "context_chunks": [
+      "Physics\n100\n EXAMPLE 3.6\nSolution  Each branch of the network is assigned an unknown current\nto be determined by the application of Kirchhoff\u2019s rules. To reduce\nthe number of unknowns at the outset, the first rule of Kirchhoff is\nused at every junction to assign the unknown current in each branch.\nW",
+      "3.1  INTRODUCTION\nIn Chapter 1, all charges whether free or bound, were considered to be at\nrest. Charges in motion constitute an electric current. Such currents occur\nnaturally in many situations. Lightning is one such phenomenon in\nwhich charges flow from the clouds to the earth through the atmosp",
+      "Current\nElectricity\n97\n1\n2\n1\n1\n1\neq\nr\nr\nr\n=\n+\n(3.56)\n1\n2\n1\n2\neq\neq\nr\nr\nr\n\u03b5\n\u03b5\n\u03b5\n=\n+\n(3.57)\nIn Fig. (3.14), we had joined the positive terminals\ntogether and similarly the two negative ones, so that the\ncurrents I1, I2 flow out of positive terminals. If the negative\nterminal of the second is connected"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "easy",
+    "topic": "<short name>electric current",
+    "page_number": 20,
+    "question": "What is the first rule used in Kirchhoff's laws?",
+    "options": [
+      "A. First rule",
+      "B. Second rule",
+      "C. Third rule",
+      "D. Fourth rule"
+    ],
+    "answer": "A",
+    "solution": "The first rule of Kirchhoff is used at every junction to assign the unknown currents. This allows the determination of three unknowns (I1, I2, I3) by applying the second rule of Kirchhoff to three different closed loops.",
+    "id": 2,
+    "context_chunks": [
+      "Physics\n100\n EXAMPLE 3.6\nSolution  Each branch of the network is assigned an unknown current\nto be determined by the application of Kirchhoff\u2019s rules. To reduce\nthe number of unknowns at the outset, the first rule of Kirchhoff is\nused at every junction to assign the unknown current in each branch.\nW",
+      "3.1  INTRODUCTION\nIn Chapter 1, all charges whether free or bound, were considered to be at\nrest. Charges in motion constitute an electric current. Such currents occur\nnaturally in many situations. Lightning is one such phenomenon in\nwhich charges flow from the clouds to the earth through the atmosp",
+      "Current\nElectricity\n97\n1\n2\n1\n1\n1\neq\nr\nr\nr\n=\n+\n(3.56)\n1\n2\n1\n2\neq\neq\nr\nr\nr\n\u03b5\n\u03b5\n\u03b5\n=\n+\n(3.57)\nIn Fig. (3.14), we had joined the positive terminals\ntogether and similarly the two negative ones, so that the\ncurrents I1, I2 flow out of positive terminals. If the negative\nterminal of the second is connected"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "easy",
+    "topic": "Kirchhoff's Current Law",
+    "page_number": 20,
+    "question": "How many unknown currents are determined by applying Kirchhoff's rules?",
+    "options": [
+      "A. 1",
+      "B. 3",
+      "C. 2",
+      "D. 4"
+    ],
+    "answer": "B. 3",
+    "solution": "Three unknown currents (I1, I2, I3) are determined by applying Kirchhoff's first rule at each junction, leading to three equations from the second rule for three different closed loops. Thus, three unknowns are found.",
+    "id": 3,
+    "context_chunks": [
+      "Physics\n100\n EXAMPLE 3.6\nSolution  Each branch of the network is assigned an unknown current\nto be determined by the application of Kirchhoff\u2019s rules. To reduce\nthe number of unknowns at the outset, the first rule of Kirchhoff is\nused at every junction to assign the unknown current in each branch.\nW",
+      "3.1  INTRODUCTION\nIn Chapter 1, all charges whether free or bound, were considered to be at\nrest. Charges in motion constitute an electric current. Such currents occur\nnaturally in many situations. Lightning is one such phenomenon in\nwhich charges flow from the clouds to the earth through the atmosp",
+      "Current\nElectricity\n97\n1\n2\n1\n1\n1\neq\nr\nr\nr\n=\n+\n(3.56)\n1\n2\n1\n2\neq\neq\nr\nr\nr\n\u03b5\n\u03b5\n\u03b5\n=\n+\n(3.57)\nIn Fig. (3.14), we had joined the positive terminals\ntogether and similarly the two negative ones, so that the\ncurrents I1, I2 flow out of positive terminals. If the negative\nterminal of the second is connected"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "medium",
+    "topic": "<short name>",
+    "page_number": 20,
+    "question": "Which of the following equations correctly represents the current through the galvanometer?",
+    "options": [
+      "A. 20I1 + 3Ig -12I2=0",
+      "B. 10I1 -30Ig -5I2=0",
+      "C. 2I1 -6Ig -I2=0",
+      "D. 5I1 -4Ig -2I2=0"
+    ],
+    "answer": "A",
+    "solution": "The correct equation is A. It represents the current through the galvanometer by considering the mesh BADB, which gives 20I1 + 3Ig -12I2=0. The other equations are derived from different loops, confirming the galvanometer's current in the given setup.",
+    "id": 4,
+    "context_chunks": [
+      "Physics\n100\n EXAMPLE 3.6\nSolution  Each branch of the network is assigned an unknown current\nto be determined by the application of Kirchhoff\u2019s rules. To reduce\nthe number of unknowns at the outset, the first rule of Kirchhoff is\nused at every junction to assign the unknown current in each branch.\nW",
+      "Current\nElectricity\n97\n1\n2\n1\n1\n1\neq\nr\nr\nr\n=\n+\n(3.56)\n1\n2\n1\n2\neq\neq\nr\nr\nr\n\u03b5\n\u03b5\n\u03b5\n=\n+\n(3.57)\nIn Fig. (3.14), we had joined the positive terminals\ntogether and similarly the two negative ones, so that the\ncurrents I1, I2 flow out of positive terminals. If the negative\nterminal of the second is connected",
+      "Physics\n102\n EXAMPLE 3.7\n A galvanometer of 15W resistance is connected across BD. Calculate\nthe current through the galvanometer when a potential difference of\n10 V is maintained across AC.\nSolution  Considering the mesh BADB, we have\n100I1 + 15Ig \u2013 60I2 = 0\nor   20I1 + 3Ig \u2013 12I2= 0\n[3.65(a)]\nCons"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "medium",
+    "topic": "<short name>",
+    "page_number": 20,
+    "question": "Which of the following correctly describes the equivalent cell equation when multiple cells are connected in parallel?",
+    "options": [
+      "A. The equivalent cell has an emf equal to the sum of individual emfs and internal resistance equal to the sum of individual resistances.",
+      "B. The equivalent cell has an emf equal to the sum of individual emfs and internal resistance equal to the sum of individual resistances.",
+      "C. The equivalent cell has an emf equal to the sum of individual emfs and internal resistance equal to the sum of individual resistances.",
+      "D. The equivalent cell has an emf equal to the sum of individual emfs and internal resistance equal to the sum of individual resistances."
+    ],
+    "answer": "A",
+    "solution": "When multiple cells are connected in parallel, their combination is equivalent to a single cell of emf equal to the sum of individual emfs and internal resistance equal to the sum of individual resistances. This is derived by considering the equivalent resistance as the sum of individual resistances, and the equivalent emf as the sum of individual emfs.",
+    "id": 5,
+    "context_chunks": [
+      "Physics\n100\n EXAMPLE 3.6\nSolution  Each branch of the network is assigned an unknown current\nto be determined by the application of Kirchhoff\u2019s rules. To reduce\nthe number of unknowns at the outset, the first rule of Kirchhoff is\nused at every junction to assign the unknown current in each branch.\nW",
+      "Current\nElectricity\n97\n1\n2\n1\n1\n1\neq\nr\nr\nr\n=\n+\n(3.56)\n1\n2\n1\n2\neq\neq\nr\nr\nr\n\u03b5\n\u03b5\n\u03b5\n=\n+\n(3.57)\nIn Fig. (3.14), we had joined the positive terminals\ntogether and similarly the two negative ones, so that the\ncurrents I1, I2 flow out of positive terminals. If the negative\nterminal of the second is connected",
+      "Physics\n102\n EXAMPLE 3.7\n A galvanometer of 15W resistance is connected across BD. Calculate\nthe current through the galvanometer when a potential difference of\n10 V is maintained across AC.\nSolution  Considering the mesh BADB, we have\n100I1 + 15Ig \u2013 60I2 = 0\nor   20I1 + 3Ig \u2013 12I2= 0\n[3.65(a)]\nCons"
+    ]
+  },
+  {
+    "type": "short_answer",
+    "difficulty": "medium",
+    "topic": "<short name>Physics",
+    "page_number": 20,
+    "question": "How does Kirchhoff's first and second rules help in solving a circuit with multiple unknown currents?",
+    "answer": "By applying Kirchhoff's first rule at each junction to assign unknown currents and then using Kirchhoff's second rule to solve for three unknowns by analyzing three closed loops, the system can be solved step-by-step.",
+    "solution": "The first rule assigns unknown currents at each junction, reducing the number of variables. The second rule is applied to each loop to form three equations, which can be solved using algebraic methods to find the values of the unknown currents.",
+    "id": 6,
+    "context_chunks": [
+      "Physics\n100\n EXAMPLE 3.6\nSolution  Each branch of the network is assigned an unknown current\nto be determined by the application of Kirchhoff\u2019s rules. To reduce\nthe number of unknowns at the outset, the first rule of Kirchhoff is\nused at every junction to assign the unknown current in each branch.\nW",
+      "3.1  INTRODUCTION\nIn Chapter 1, all charges whether free or bound, were considered to be at\nrest. Charges in motion constitute an electric current. Such currents occur\nnaturally in many situations. Lightning is one such phenomenon in\nwhich charges flow from the clouds to the earth through the atmosp",
+      "Physics\n88\n EXAMPLE 3.2\nExample 3.2\n(a) In Example 3.1, the electron drift speed is estimated to be only a\nfew mm s\u20131 for currents in the range of a few amperes? How then\nis current established almost the instant a circuit is closed?\n(b) The electron drift arises due to the force experienced by elec"
+    ]
+  },
+  {
+    "type": "short_answer",
+    "difficulty": "medium",
+    "topic": "<short name>Electrical Currents",
+    "page_number": 20,
+    "question": "How do the currents in Example 3.6 and 3.2 relate to each other, and what are the steps to solve for the unknown currents?",
+    "answer": "The currents are determined by solving the system of equations derived from Kirchhoff's laws. The equations are 7I1 - 6I2 - 2I3 = 10, I1 + 6I2 + 2I3 = 10, and 2I1 - 4I2 - 4I3 = -5. Solving these equations yields the values of I1, I2, and I3.",
+    "solution": "The currents are found by substituting values from the equations. First, solve one equation for one variable, substitute into another, and solve step-by-step. The solution involves elimination or substitution to find the unknown currents.",
+    "id": 7,
+    "context_chunks": [
+      "Physics\n100\n EXAMPLE 3.6\nSolution  Each branch of the network is assigned an unknown current\nto be determined by the application of Kirchhoff\u2019s rules. To reduce\nthe number of unknowns at the outset, the first rule of Kirchhoff is\nused at every junction to assign the unknown current in each branch.\nW",
+      "3.1  INTRODUCTION\nIn Chapter 1, all charges whether free or bound, were considered to be at\nrest. Charges in motion constitute an electric current. Such currents occur\nnaturally in many situations. Lightning is one such phenomenon in\nwhich charges flow from the clouds to the earth through the atmosp",
+      "Physics\n88\n EXAMPLE 3.2\nExample 3.2\n(a) In Example 3.1, the electron drift speed is estimated to be only a\nfew mm s\u20131 for currents in the range of a few amperes? How then\nis current established almost the instant a circuit is closed?\n(b) The electron drift arises due to the force experienced by elec"
+    ]
+  },
+  {
+    "type": "short_answer",
+    "difficulty": "medium",
+    "topic": "Electric Currents in Circuits",
+    "page_number": 20,
+    "question": "How do you determine the unknown currents in a circuit using Kirchhoff's first and second rules, given three loops with equations 7I1\u22126I2\u22122I3=10, I1+6I2+2I3=10, and 2I1\u22124I2\u22124I3=\u22125?",
+    "answer": "The unknown currents are determined by solving the system of equations derived from Kirchhoff's first and second rules. The first rule assigns unknown currents at each junction, and the second rule applies to three closed loops to form three equations. Solving these equations yields the values of I1, I2, and I3 using substitution or matrix methods.",
+    "solution": "The system of equations is solved by substituting values from the loops. For example, solving the first equation for I1 and substituting into the second equation gives I1 in terms of I2, which is then used to find I2. Similarly, substituting I1 into the third equation allows the solution for I3. The final result provides the currents in the circuit.",
+    "end_of_answer": true,
+    "id": 8,
+    "context_chunks": [
+      "Physics\n100\n EXAMPLE 3.6\nSolution  Each branch of the network is assigned an unknown current\nto be determined by the application of Kirchhoff\u2019s rules. To reduce\nthe number of unknowns at the outset, the first rule of Kirchhoff is\nused at every junction to assign the unknown current in each branch.\nW",
+      "3.1  INTRODUCTION\nIn Chapter 1, all charges whether free or bound, were considered to be at\nrest. Charges in motion constitute an electric current. Such currents occur\nnaturally in many situations. Lightning is one such phenomenon in\nwhich charges flow from the clouds to the earth through the atmosp",
+      "Physics\n88\n EXAMPLE 3.2\nExample 3.2\n(a) In Example 3.1, the electron drift speed is estimated to be only a\nfew mm s\u20131 for currents in the range of a few amperes? How then\nis current established almost the instant a circuit is closed?\n(b) The electron drift arises due to the force experienced by elec"
+    ]
+  },
+  {
+    "type": "true_false",
+    "difficulty": "hard",
+    "topic": "<short name>",
+    "page_number": 20,
+    "question": "Is the network reducible to simple series and parallel combinations?",
+    "answer": "False",
+    "solution": "The network is not reducible to simple series and parallel combinations of resistors. There is, however, a clear symmetry in the problem which we can exploit to obtain the equivalent resistance of the network.",
+    "id": 9,
+    "context_chunks": [
+      "Physics\n100\n EXAMPLE 3.6\nSolution  Each branch of the network is assigned an unknown current\nto be determined by the application of Kirchhoff\u2019s rules. To reduce\nthe number of unknowns at the outset, the first rule of Kirchhoff is\nused at every junction to assign the unknown current in each branch.\nW",
+      "Current\nElectricity\n99\n EXAMPLE 3.5\nSimilation for application of Kirchhoff\u2019s rules:\nhttp://www.phys.hawaii.edu/~teb/optics/java/kirch3/\n EXAMPLE 3.6\nSolution  The network is not reducible to a simple series and parallel\ncombinations of resistors. There is, however, a clear symmetry in the\nproblem w",
+      "Current\nElectricity\n97\n1\n2\n1\n1\n1\neq\nr\nr\nr\n=\n+\n(3.56)\n1\n2\n1\n2\neq\neq\nr\nr\nr\n\u03b5\n\u03b5\n\u03b5\n=\n+\n(3.57)\nIn Fig. (3.14), we had joined the positive terminals\ntogether and similarly the two negative ones, so that the\ncurrents I1, I2 flow out of positive terminals. If the negative\nterminal of the second is connected"
+    ]
+  },
+  {
+    "type": "true_false",
+    "difficulty": "hard",
+    "topic": "Physics",
+    "page_number": 20,
+    "question": "Is the system reducible to a simple series and parallel combination?",
+    "answer": "True",
+    "solution": "The network is not reducible to a simple series and parallel combination of resistors. There is, however, a clear symmetry in the problem which we can exploit to obtain the equivalent resistance of the network. The paths AA\u00a2, AD and AB are obviously symmetrically placed in the network. Thus, the current in each must be the same, say, I. Further, at the corners A\u00a2, B and D, the incoming current I must split equally into the two outgoing branches. In this manner, the current in all the 12 edges of the cube are easily written down in terms of I, using Kirchhoff\u2019s first rule and the symmetry in the problem.",
+    "id": 10,
+    "context_chunks": [
+      "Physics\n100\n EXAMPLE 3.6\nSolution  Each branch of the network is assigned an unknown current\nto be determined by the application of Kirchhoff\u2019s rules. To reduce\nthe number of unknowns at the outset, the first rule of Kirchhoff is\nused at every junction to assign the unknown current in each branch.\nW",
+      "Current\nElectricity\n99\n EXAMPLE 3.5\nSimilation for application of Kirchhoff\u2019s rules:\nhttp://www.phys.hawaii.edu/~teb/optics/java/kirch3/\n EXAMPLE 3.6\nSolution  The network is not reducible to a simple series and parallel\ncombinations of resistors. There is, however, a clear symmetry in the\nproblem w",
+      "Current\nElectricity\n97\n1\n2\n1\n1\n1\neq\nr\nr\nr\n=\n+\n(3.56)\n1\n2\n1\n2\neq\neq\nr\nr\nr\n\u03b5\n\u03b5\n\u03b5\n=\n+\n(3.57)\nIn Fig. (3.14), we had joined the positive terminals\ntogether and similarly the two negative ones, so that the\ncurrents I1, I2 flow out of positive terminals. If the negative\nterminal of the second is connected"
+    ]
+  }
+]

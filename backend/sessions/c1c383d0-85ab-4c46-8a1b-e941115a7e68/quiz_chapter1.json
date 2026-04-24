@@ -1,0 +1,186 @@
+{
+  "chapter": "Chapter 1",
+  "total_questions": 10,
+  "questions": [
+    {
+      "type": "mcq",
+      "difficulty": "easy",
+      "topic": "<short name>electric force between charges",
+      "page_number": 42,
+      "question": "What is the force between two small charged spheres having charges of 2 \u00d7 10\u20137 C and 3 \u00d7 10\u20137 C placed 30 cm apart in air?",
+      "options": [
+        "A. 5.99\u00d710\u20133 N",
+        "B. 1.2\u00d710\u20137 N",
+        "C. 8.99\u00d710\u20139 N\u00b7m\u00b2/C\u00b2",
+        "D. 10\u201313 N"
+      ],
+      "answer": "A",
+      "solution": "The force is calculated using Coulomb's law: $ F = k \\frac{|q_1 q_2|}{r^2} $. Substituting values: $ k = 8.99 \\times 10^9 \\, \\text{N\u00b7m}^2/\\text{C}^2 $, $ q_1 q_2 = 6 \\times 10^{-14} \\, \\text{C}^2 $, $ r = 0.3 \\, \\text{m} $, resulting in $ F \\approx 5.99 \\times 10^{-3} \\, \\text{N} $. The unit is in Newtons, matching option A.",
+      "id": 1,
+      "context_chunks": [
+        "42\nPhysics\nEXERCISES\n1.1\nWhat is the force between  two small charged spheres having\ncharges of 2 \u00d7 10\u20137C and 3 \u00d7 10\u20137C placed 30 cm apart in air?\n1.2\nThe electrostatic force on a small sphere of charge 0.4 mC due to\nanother small sphere of charge \u20130.8 mC in air is 0.2 N. (a) What is\nthe distance be",
+        "as the force that a unit positive charge would experience if placed\n*\nAn alternate unit V/m will be introduced in the next chapter.\nFIGURE 1.8 Electric\nfield (a) due to a\ncharge Q, (b) due to a\ncharge \u2013Q.\nReprint 2026-27",
+        "6\nPhysics\n EXAMPLE 1.2\n EXAMPLE 1.1\neach other normally give an impression of a continuous line, many\nsmall charges taken together appear as a continuous charge distribution.\nAt the macroscopic level, one deals with charges that are enormous\ncompared to the magnitude of charge e. Since e = 1.6 \u00d7 10\u2013"
+      ]
+    },
+    {
+      "type": "mcq",
+      "difficulty": "easy",
+      "topic": "<short name>electric force between charges",
+      "page_number": 42,
+      "question": "What is the force between 2 \u00d7 10\u207b\u2077 C and 3 \u00d7 10\u207b\u2077 C placed 30 cm apart in air?",
+      "options": [
+        "A. 6 \u00d7 10\u207b\u00b3 N",
+        "B. 1.2 \u00d7 10\u207b\u00b3 N",
+        "C. 5.99 \u00d7 10\u207b\u00b3 N",
+        "D. 10\u207b\u2074 N"
+      ],
+      "answer": "A",
+      "solution": "The electric force is calculated using Coulomb's law: $ F = k \\frac{|q_1 q_2|}{r^2} $. Substituting the values: $ k = 8.99 \\times 10^9 \\, \\text{N\u00b7m}^2/\\text{C}^2 $, $ q_1 q_2 = 6 \\times 10^{-14} \\, \\text{C}^2 $, $ r = 0.3 \\, \\text{m} $, resulting in approximately $ 6 \\times 10^{-3} \\, \\text{N} $.",
+      "id": 2,
+      "context_chunks": [
+        "42\nPhysics\nEXERCISES\n1.1\nWhat is the force between  two small charged spheres having\ncharges of 2 \u00d7 10\u20137C and 3 \u00d7 10\u20137C placed 30 cm apart in air?\n1.2\nThe electrostatic force on a small sphere of charge 0.4 mC due to\nanother small sphere of charge \u20130.8 mC in air is 0.2 N. (a) What is\nthe distance be",
+        "as the force that a unit positive charge would experience if placed\n*\nAn alternate unit V/m will be introduced in the next chapter.\nFIGURE 1.8 Electric\nfield (a) due to a\ncharge Q, (b) due to a\ncharge \u2013Q.\nReprint 2026-27",
+        "6\nPhysics\n EXAMPLE 1.2\n EXAMPLE 1.1\neach other normally give an impression of a continuous line, many\nsmall charges taken together appear as a continuous charge distribution.\nAt the macroscopic level, one deals with charges that are enormous\ncompared to the magnitude of charge e. Since e = 1.6 \u00d7 10\u2013"
+      ]
+    },
+    {
+      "type": "mcq",
+      "difficulty": "easy",
+      "topic": "<short name>electric force between charges",
+      "page_number": 42,
+      "question": "What is the force between two small charged spheres having charges of 2 \u00d7 10\u207b\u2077 C and 3 \u00d7 10\u207b\u2077 C placed 30 cm apart in air?",
+      "options": [
+        "A. Coulomb's law states that the force is F = k * |q1 * q2| / r\u00b2.",
+        "B. The force is calculated using the formula F = k * |q1 * q2| / r\u00b2.",
+        "C. The force is proportional to the product of charges and inversely proportional to the square of the distance.",
+        "D. The force is determined by the charge distribution and the geometry of the spheres."
+      ],
+      "answer": "B",
+      "solution": "The force is calculated using Coulomb's law: F = k * |q1 * q2| / r\u00b2. Here, k \u2248 8.99 \u00d7 10\u2079 N\u00b7m\u00b2/C\u00b2, q1 = 2 \u00d7 10\u207b\u2077 C, q2 = 3 \u00d7 10\u207b\u2077 C, and r = 0.3 m. Plugging in the values, the force is approximately 6 \u00d7 10\u207b\u00b3 N.",
+      "id": 3,
+      "context_chunks": [
+        "42\nPhysics\nEXERCISES\n1.1\nWhat is the force between  two small charged spheres having\ncharges of 2 \u00d7 10\u20137C and 3 \u00d7 10\u20137C placed 30 cm apart in air?\n1.2\nThe electrostatic force on a small sphere of charge 0.4 mC due to\nanother small sphere of charge \u20130.8 mC in air is 0.2 N. (a) What is\nthe distance be",
+        "as the force that a unit positive charge would experience if placed\n*\nAn alternate unit V/m will be introduced in the next chapter.\nFIGURE 1.8 Electric\nfield (a) due to a\ncharge Q, (b) due to a\ncharge \u2013Q.\nReprint 2026-27",
+        "6\nPhysics\n EXAMPLE 1.2\n EXAMPLE 1.1\neach other normally give an impression of a continuous line, many\nsmall charges taken together appear as a continuous charge distribution.\nAt the macroscopic level, one deals with charges that are enormous\ncompared to the magnitude of charge e. Since e = 1.6 \u00d7 10\u2013"
+      ]
+    },
+    {
+      "type": "mcq",
+      "difficulty": "medium",
+      "topic": "<short name>Physics",
+      "page_number": 42,
+      "question": "What is the force between 2 small charged spheres having charges of 2 \u00d7 10\u207b\u2077 C and 3 \u00d7 10\u207b\u2077 C placed 30 cm apart in air?",
+      "options": [
+        "A. 1.2 N",
+        "B. 1.4 N",
+        "C. 1.6 N",
+        "D. 1.8 N"
+      ],
+      "answer": "A",
+      "solution": "The force between two point charges is calculated using Coulomb's law: $ F = k \\frac{q_1 q_2}{r^2} $. Substituting the values: $ k = 8.854 \\times 10^{-12} \\, \\text{N} \\cdot \\text{m}^2/\\text{C}^2 $, $ q_1 q_2 = (2 \\times 10^{-7})(3 \\times 10^{-7}) = 6 \\times 10^{-14} \\, \\text{C}^2 $, $ r = 0.3 \\, \\text{m} $. The calculation yields approximately 1.2 N, matching option A.",
+      "id": 4,
+      "context_chunks": [
+        "42\nPhysics\nEXERCISES\n1.1\nWhat is the force between  two small charged spheres having\ncharges of 2 \u00d7 10\u20137C and 3 \u00d7 10\u20137C placed 30 cm apart in air?\n1.2\nThe electrostatic force on a small sphere of charge 0.4 mC due to\nanother small sphere of charge \u20130.8 mC in air is 0.2 N. (a) What is\nthe distance be",
+        "26\nPhysics\n EXAMPLE 1.9\nSolution  (a) Field at P due to charge +10 mC\n= \n5\n12\n2\n1\n2\n10\nC\n4 (8.854 10\nC N\nm\n)\n\u2212\n\u2212\n\u2212\n\u2212\n\u03c0\n\u00d7\n2\n4\n2\n1\n(15\n0.25)\n10\nm\n\u2212\n\u00d7\n\u2212\n\u00d7\n=  4.13 \u00d7 106  N C\u20131  along BP\nField at P due to charge \u201310 mC\n\u20135\n12\n2\n1\n2\n10\nC\n4 (8.854 10\nC N\nm\n)\n\u2212\n\u2212\n\u2212\n=\n\u03c0\n\u00d7\n \n2\n4\n2\n1\n(15\n0.25)\n10\nm\n\u2212\n\u00d7\n+\n\u00d7\n=  ",
+        "though other charges are present.\nThus,\nF12 =\n1\n4\n0\n1\n2\n12\n2\n12\n\u03c0\u03b5\nq q\nr\n\u02c6r\nFIGURE 1.5 A system of\n(a) three charges\n(b) multiple charges.\nReprint 2026-27"
+      ]
+    },
+    {
+      "type": "mcq",
+      "difficulty": "medium",
+      "topic": "<short name>electric force between charges",
+      "page_number": 42,
+      "question": "What is the force between two small charged spheres having charges of 2 \u00d7 10\u207b\u2077 C and 3 \u00d7 10\u207b\u2077 C placed 30 cm apart in air?",
+      "options": [
+        "A. 59.24 N",
+        "B. 59 N",
+        "C. 5.924 \u00d7 10\u2075 N",
+        "D. 5.924 \u00d7 10\u207b\u2075 N"
+      ],
+      "answer": "A",
+      "solution": "The electric force is calculated using Coulomb's law: $ F = \\frac{k \\cdot |q_1 \\cdot q_2|}{r^2} $. Substituting the values: $ k = 8.854 \\times 10^{12} \\, \\text{N} \\cdot \\text{m}^2/\\text{C}^2 $, $ q_1 = 2 \\times 10^{-7} \\, \\text{C} $, $ q_2 = 3 \\times 10^{-7} \\, \\text{C} $, $ r = 0.3 \\, \\text{m} $. The calculation yields approximately $ 5.924 \\times 10^5 \\, \\text{N} $, which matches option A.",
+      "id": 5,
+      "context_chunks": [
+        "42\nPhysics\nEXERCISES\n1.1\nWhat is the force between  two small charged spheres having\ncharges of 2 \u00d7 10\u20137C and 3 \u00d7 10\u20137C placed 30 cm apart in air?\n1.2\nThe electrostatic force on a small sphere of charge 0.4 mC due to\nanother small sphere of charge \u20130.8 mC in air is 0.2 N. (a) What is\nthe distance be",
+        "26\nPhysics\n EXAMPLE 1.9\nSolution  (a) Field at P due to charge +10 mC\n= \n5\n12\n2\n1\n2\n10\nC\n4 (8.854 10\nC N\nm\n)\n\u2212\n\u2212\n\u2212\n\u2212\n\u03c0\n\u00d7\n2\n4\n2\n1\n(15\n0.25)\n10\nm\n\u2212\n\u00d7\n\u2212\n\u00d7\n=  4.13 \u00d7 106  N C\u20131  along BP\nField at P due to charge \u201310 mC\n\u20135\n12\n2\n1\n2\n10\nC\n4 (8.854 10\nC N\nm\n)\n\u2212\n\u2212\n\u2212\n=\n\u03c0\n\u00d7\n \n2\n4\n2\n1\n(15\n0.25)\n10\nm\n\u2212\n\u00d7\n+\n\u00d7\n=  ",
+        "though other charges are present.\nThus,\nF12 =\n1\n4\n0\n1\n2\n12\n2\n12\n\u03c0\u03b5\nq q\nr\n\u02c6r\nFIGURE 1.5 A system of\n(a) three charges\n(b) multiple charges.\nReprint 2026-27"
+      ]
+    },
+    {
+      "type": "short_answer",
+      "difficulty": "medium",
+      "topic": "Electric Field and Charge Quantization",
+      "page_number": 14,
+      "question": "What is the direction of the electric field due to a positive and negative charge?",
+      "answer": "The electric field direction depends on the charge's sign. A positive charge produces a field pointing away, while a negative charge points toward it. Charge quantization refers to the discrete nature of electric charge, which is quantized into fundamental units like elementary charges (e), making macroscopic charges appear as combinations of these particles.",
+      "solution": "The electric field direction is determined by the charge's sign. A positive charge creates a field pointing away, and a negative charge points toward it. Charge quantization states that electric charge is quantized, meaning it's composed of discrete units like elementary charges, which is essential for macroscopic charge calculations. This quantization allows us to model large-scale charges as combinations of these basic units, explaining why macroscopic charges appear as combinations of smaller charges.",
+      "id": 6,
+      "context_chunks": [
+        "as the force that a unit positive charge would experience if placed\n*\nAn alternate unit V/m will be introduced in the next chapter.\nFIGURE 1.8 Electric\nfield (a) due to a\ncharge Q, (b) due to a\ncharge \u2013Q.\nReprint 2026-27",
+        "42\nPhysics\nEXERCISES\n1.1\nWhat is the force between  two small charged spheres having\ncharges of 2 \u00d7 10\u20137C and 3 \u00d7 10\u20137C placed 30 cm apart in air?\n1.2\nThe electrostatic force on a small sphere of charge 0.4 mC due to\nanother small sphere of charge \u20130.8 mC in air is 0.2 N. (a) What is\nthe distance be",
+        "why this happens in the next chapter.\nThis property of the materials tells you why a nylon or plastic comb\ngets electrified on combing dry hair or on rubbing, but a metal article\n*\nThere is a third category called semiconductors, which offer resistance to the\nmovement of charges which is intermediat"
+      ]
+    },
+    {
+      "type": "short_answer",
+      "difficulty": "medium",
+      "topic": "Physics",
+      "page_number": 14,
+      "question": "What is the force between two small charged spheres having charges of 2 \u00d7 10\u207b\u2077 C and 3 \u00d7 10\u207b\u2077 C placed 30 cm apart in air?",
+      "answer": "The force is calculated using Coulomb's law: F = (k * |Q1| * |Q2|) / r\u00b2, where k is Coulomb's constant, Q1 and Q2 are charges, and r is the distance between them.",
+      "solution": "The force is determined by Coulomb's law, which states that the magnitude of the electric force between two point charges is directly proportional to the product of the charges and inversely proportional to the square of the distance between them. The formula is F = (k * |Q1| * |Q2|) / r\u00b2, where k = 8.99 \u00d7 10\u2079 N\u00b7m\u00b2/C\u00b2. The given charges and distance allow calculation of the force using the provided values.",
+      "id": 7,
+      "context_chunks": [
+        "as the force that a unit positive charge would experience if placed\n*\nAn alternate unit V/m will be introduced in the next chapter.\nFIGURE 1.8 Electric\nfield (a) due to a\ncharge Q, (b) due to a\ncharge \u2013Q.\nReprint 2026-27",
+        "42\nPhysics\nEXERCISES\n1.1\nWhat is the force between  two small charged spheres having\ncharges of 2 \u00d7 10\u20137C and 3 \u00d7 10\u20137C placed 30 cm apart in air?\n1.2\nThe electrostatic force on a small sphere of charge 0.4 mC due to\nanother small sphere of charge \u20130.8 mC in air is 0.2 N. (a) What is\nthe distance be",
+        "why this happens in the next chapter.\nThis property of the materials tells you why a nylon or plastic comb\ngets electrified on combing dry hair or on rubbing, but a metal article\n*\nThere is a third category called semiconductors, which offer resistance to the\nmovement of charges which is intermediat"
+      ]
+    },
+    {
+      "type": "short_answer",
+      "difficulty": "medium",
+      "topic": "Electric Field",
+      "page_number": 14,
+      "question": "What is the electric field due to a charge Q at a distance r from it?",
+      "answer": "The electric field is a vector quantity defined as the force per unit charge on a test charge placed in the electric field. It is given by E = kQ/r\u00b2, where k is Coulomb's constant and r is the distance from the charge Q.",
+      "solution": "The electric field is calculated using Coulomb's law: E = kQ/r\u00b2. The unit of electric field is volts per meter (V/m), and it depends on the magnitude of the charge and the distance from it. The figure in the context illustrates both electric field directions due to positive and negative charges, emphasizing the vector nature of the field.",
+      "id": 8,
+      "context_chunks": [
+        "as the force that a unit positive charge would experience if placed\n*\nAn alternate unit V/m will be introduced in the next chapter.\nFIGURE 1.8 Electric\nfield (a) due to a\ncharge Q, (b) due to a\ncharge \u2013Q.\nReprint 2026-27",
+        "42\nPhysics\nEXERCISES\n1.1\nWhat is the force between  two small charged spheres having\ncharges of 2 \u00d7 10\u20137C and 3 \u00d7 10\u20137C placed 30 cm apart in air?\n1.2\nThe electrostatic force on a small sphere of charge 0.4 mC due to\nanother small sphere of charge \u20130.8 mC in air is 0.2 N. (a) What is\nthe distance be",
+        "why this happens in the next chapter.\nThis property of the materials tells you why a nylon or plastic comb\ngets electrified on combing dry hair or on rubbing, but a metal article\n*\nThere is a third category called semiconductors, which offer resistance to the\nmovement of charges which is intermediat"
+      ]
+    },
+    {
+      "type": "true_false",
+      "difficulty": "hard",
+      "topic": "<short name>Physics",
+      "page_number": 42,
+      "question": "Is the force between two charged spheres proportional to the product of their charges and the distance squared?",
+      "answer": "True",
+      "solution": "True. The electrostatic force between two point charges is given by Coulomb's law: $ F = k \frac{q_1 q_2}{r^2} $, where $ k $ is Coulomb's constant, $ q_1 $ and $ q_2 $ are the charges, and $ r $ is the distance between them. This shows that the force is directly proportional to the product of the charges and inversely proportional to the square of the distance. The context confirms this relationship.",
+      "id": 9,
+      "context_chunks": [
+        "42\nPhysics\nEXERCISES\n1.1\nWhat is the force between  two small charged spheres having\ncharges of 2 \u00d7 10\u20137C and 3 \u00d7 10\u20137C placed 30 cm apart in air?\n1.2\nThe electrostatic force on a small sphere of charge 0.4 mC due to\nanother small sphere of charge \u20130.8 mC in air is 0.2 N. (a) What is\nthe distance be",
+        "is quantised\u2019.\n(b) Why can one ignore quantisation of electric charge when dealing\nwith macroscopic i.e., large scale charges?\n1.5\nWhen a glass rod is rubbed with a silk cloth, charges appear on\nboth. A similar phenomenon is observed with many other pairs of\nbodies. Explain how this observation is c",
+        "why this happens in the next chapter.\nThis property of the materials tells you why a nylon or plastic comb\ngets electrified on combing dry hair or on rubbing, but a metal article\n*\nThere is a third category called semiconductors, which offer resistance to the\nmovement of charges which is intermediat"
+      ]
+    },
+    {
+      "type": "true_false",
+      "difficulty": "hard",
+      "topic": "<short name>",
+      "page_number": 42,
+      "question": "What is the ratio ke\u00b2/G memp?",
+      "answer": "True",
+      "solution": "The ratio ke\u00b2/G memp is dimensionless. It signifies the proportionality constant in Coulomb's law, representing the electric force between two charges. This dimensionless quantity is crucial for understanding the relationship between electric charge, distance, and force in physics.",
+      "id": 10,
+      "context_chunks": [
+        "42\nPhysics\nEXERCISES\n1.1\nWhat is the force between  two small charged spheres having\ncharges of 2 \u00d7 10\u20137C and 3 \u00d7 10\u20137C placed 30 cm apart in air?\n1.2\nThe electrostatic force on a small sphere of charge 0.4 mC due to\nanother small sphere of charge \u20130.8 mC in air is 0.2 N. (a) What is\nthe distance be",
+        "is quantised\u2019.\n(b) Why can one ignore quantisation of electric charge when dealing\nwith macroscopic i.e., large scale charges?\n1.5\nWhen a glass rod is rubbed with a silk cloth, charges appear on\nboth. A similar phenomenon is observed with many other pairs of\nbodies. Explain how this observation is c",
+        "why this happens in the next chapter.\nThis property of the materials tells you why a nylon or plastic comb\ngets electrified on combing dry hair or on rubbing, but a metal article\n*\nThere is a third category called semiconductors, which offer resistance to the\nmovement of charges which is intermediat"
+      ]
+    }
+  ]
+}

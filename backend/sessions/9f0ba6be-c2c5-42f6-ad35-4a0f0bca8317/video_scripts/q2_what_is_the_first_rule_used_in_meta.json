@@ -1,0 +1,7 @@
+{
+  "question_id": 2,
+  "topic": "What is the first rule used in Kirchhoff",
+  "class_name": "Q2_Whatisthefirstrule",
+  "run_command": "manim -pql q2_what_is_the_first_rule_used_in_manim.py Q2_Whatisthefirstrule",
+  "script_file": "sessions/9f0ba6be-c2c5-42f6-ad35-4a0f0bca8317/video_scripts/q2_what_is_the_first_rule_used_in_manim.py"
+}

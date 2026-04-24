@@ -1,0 +1,14 @@
+{
+  "id": "c17ace4c-8531-4b81-becb-7e5c092373a9",
+  "pdf_name": "AI's Role in Cybersecurity Defense.pdf",
+  "pdf_path": "sessions/c17ace4c-8531-4b81-becb-7e5c092373a9/AI's Role in Cybersecurity Defense.pdf",
+  "output_dir": "sessions/c17ace4c-8531-4b81-becb-7e5c092373a9",
+  "status": "ready",
+  "stage": "ready",
+  "progress": 100,
+  "message": "Ready!",
+  "created_at": "2026-04-24T07:04:16.110423",
+  "video_jobs": {
+    "1": "failed"
+  }
+}

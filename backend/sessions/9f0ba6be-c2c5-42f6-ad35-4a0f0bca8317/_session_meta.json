@@ -1,0 +1,15 @@
+{
+  "id": "9f0ba6be-c2c5-42f6-ad35-4a0f0bca8317",
+  "pdf_name": "chpt3.pdf",
+  "pdf_path": "sessions/9f0ba6be-c2c5-42f6-ad35-4a0f0bca8317/chpt3.pdf",
+  "output_dir": "sessions/9f0ba6be-c2c5-42f6-ad35-4a0f0bca8317",
+  "status": "ready",
+  "stage": "ready",
+  "progress": 100,
+  "message": "Ready!",
+  "created_at": "2026-04-24T07:20:37.126975",
+  "video_jobs": {
+    "1": "rendered",
+    "2": "rendered"
+  }
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "type": "mcq",
+    "difficulty": "easy",
+    "topic": "<short name>",
+    "page_number": 2,
+    "question": "Which of the following best describes the role of AI in cybersecurity?",
+    "options": [
+      "A. AI-driven security solutions detect threats using NLP models",
+      "B. AI-driven security solutions monitor process-level activity on individual devices",
+      "C. AI-driven security solutions handle data analysis and threat containment",
+      "D. AI-driven security solutions detect manufactured urgency and unusual syntax"
+    ],
+    "answer": "A",
+    "solution": "The correct answer is A. AI-driven security solutions detect threats using NLP models by identifying patterns like manufactured urgency or unusual syntax. This aligns with the context provided.",
+    "id": 1,
+    "context_chunks": [
+      "against blacklists, NLP models can detect a sense of manufactured urgency, unusual syntax, or \nrequests for sensitive information, quarantining malicious emails before they reach an \nemployee's inbox. \n4. Enhanced Endpoint Protection \nWith the rise of remote work, securing endpoints (laptops, mobile",
+      "AI-driven Security Orchestration, Automation, and Response (SOAR) platforms can execute \npredefined mitigation strategies without human intervention. For instance, if an AI system",
+      "on a symbiotic relationship: human analysts providing strategic oversight and ethical judgment, \naugmented by AI systems handling the heavy lifting of data analysis and rapid threat \ncontainment. Embracing this synergy is not just an option; it is a necessity for surviving the next \ngeneration of cy"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "easy",
+    "topic": "<short name>",
+    "page_number": 2,
+    "question": "Which of the following best describes the role of AI in cybersecurity?",
+    "options": [
+      "A. AI automates threat detection",
+      "B. AI handles data analysis",
+      "C. AI provides human oversight",
+      "D. AI is the main security tool"
+    ],
+    "answer": "C",
+    "solution": "AI provides human oversight by integrating with SOAR platforms, which use AI for data analysis and rapid threat containment, ensuring a synergy between human judgment and AI-driven processes.",
+    "id": 2,
+    "context_chunks": [
+      "against blacklists, NLP models can detect a sense of manufactured urgency, unusual syntax, or \nrequests for sensitive information, quarantining malicious emails before they reach an \nemployee's inbox. \n4. Enhanced Endpoint Protection \nWith the rise of remote work, securing endpoints (laptops, mobile",
+      "AI-driven Security Orchestration, Automation, and Response (SOAR) platforms can execute \npredefined mitigation strategies without human intervention. For instance, if an AI system",
+      "on a symbiotic relationship: human analysts providing strategic oversight and ethical judgment, \naugmented by AI systems handling the heavy lifting of data analysis and rapid threat \ncontainment. Embracing this synergy is not just an option; it is a necessity for surviving the next \ngeneration of cy"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "easy",
+    "topic": "<short name> cybersecurity",
+    "page_number": 2,
+    "question": "Which of the following best describes the role of AI in cybersecurity?",
+    "options": [
+      "A. Detecting manufactured urgency",
+      "B. Detecting unusual syntax",
+      "C. Requesting sensitive information",
+      "D. Enhancing endpoint protection"
+    ],
+    "answer": "A",
+    "solution": "AI-driven security systems, such as NLP models, detect manufactured urgency, unusual syntax, or requests for sensitive information. AI-powered endpoint protection also monitors process-level activity, identifying ransomware by encrypting files rapidly and rolling them back to unencrypted states.",
+    "id": 3,
+    "context_chunks": [
+      "against blacklists, NLP models can detect a sense of manufactured urgency, unusual syntax, or \nrequests for sensitive information, quarantining malicious emails before they reach an \nemployee's inbox. \n4. Enhanced Endpoint Protection \nWith the rise of remote work, securing endpoints (laptops, mobile",
+      "AI-driven Security Orchestration, Automation, and Response (SOAR) platforms can execute \npredefined mitigation strategies without human intervention. For instance, if an AI system",
+      "on a symbiotic relationship: human analysts providing strategic oversight and ethical judgment, \naugmented by AI systems handling the heavy lifting of data analysis and rapid threat \ncontainment. Embracing this synergy is not just an option; it is a necessity for surviving the next \ngeneration of cy"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "medium",
+    "topic": "<short name>",
+    "page_number": 2,
+    "question": "Which of the following best describes the role of AI in endpoint protection?",
+    "options": [
+      "A. Detecting threats",
+      "B. Automating processes",
+      "C. Enhancing security",
+      "D. Reducing human intervention"
+    ],
+    "answer": "B",
+    "solution": "AI-powered endpoint security solutions monitor process-level activity, highlighting their role in automating processes rather than just detecting threats or reducing human intervention.",
+    "id": 4,
+    "context_chunks": [
+      "against blacklists, NLP models can detect a sense of manufactured urgency, unusual syntax, or \nrequests for sensitive information, quarantining malicious emails before they reach an \nemployee's inbox. \n4. Enhanced Endpoint Protection \nWith the rise of remote work, securing endpoints (laptops, mobile",
+      "AI-driven Security Orchestration, Automation, and Response (SOAR) platforms can execute \npredefined mitigation strategies without human intervention. For instance, if an AI system",
+      "on a symbiotic relationship: human analysts providing strategic oversight and ethical judgment, \naugmented by AI systems handling the heavy lifting of data analysis and rapid threat \ncontainment. Embracing this synergy is not just an option; it is a necessity for surviving the next \ngeneration of cy"
+    ]
+  },
+  {
+    "type": "mcq",
+    "difficulty": "medium",
+    "topic": "<short name> Cybersecurity",
+    "page_number": 2,
+    "question": "Which of the following is a challenge of AI in cybersecurity?",
+    "options": [
+      "A. Detect forged urgency",
+      "B. Detect unusual syntax",
+      "C. Quarantine malicious emails",
+      "D. Combine human and AI"
+    ],
+    "answer": "A",
+    "solution": "AI-driven security systems can detect forged urgency, unusual syntax, or requests for sensitive information. However, the challenge lies in ensuring that AI systems can accurately identify and respond to threats without causing unintended consequences, such as encrypting files rapidly, which could be a sign of ransomware. This highlights the need for careful integration with human oversight to maintain security effectiveness.",
+    "id": 5,
+    "context_chunks": [
+      "against blacklists, NLP models can detect a sense of manufactured urgency, unusual syntax, or \nrequests for sensitive information, quarantining malicious emails before they reach an \nemployee's inbox. \n4. Enhanced Endpoint Protection \nWith the rise of remote work, securing endpoints (laptops, mobile",
+      "AI-driven Security Orchestration, Automation, and Response (SOAR) platforms can execute \npredefined mitigation strategies without human intervention. For instance, if an AI system",
+      "on a symbiotic relationship: human analysts providing strategic oversight and ethical judgment, \naugmented by AI systems handling the heavy lifting of data analysis and rapid threat \ncontainment. Embracing this synergy is not just an option; it is a necessity for surviving the next \ngeneration of cy"
+    ]
+  },
+  {
+    "type": "short_answer",
+    "difficulty": "medium",
+    "topic": "AI in cybersecurity",
+    "page_number": 2,
+    "question": "How does AI enhance cybersecurity?",
+    "answer": "AI enhances cybersecurity by detecting threats, automating responses, and enabling real-time threat containment, but human oversight remains essential for strategic decision-making.",
+    "solution": "AI detects manufactured urgency, unusual syntax, or requests for sensitive information, and automates endpoint protection. Human analysts provide strategic oversight, while AI handles data analysis and threat containment. SOAR platforms enable predefined mitigation strategies without human intervention, highlighting the synergy between AI and human oversight for effective cyber defense.",
+    "id": 6,
+    "context_chunks": [
+      "against blacklists, NLP models can detect a sense of manufactured urgency, unusual syntax, or \nrequests for sensitive information, quarantining malicious emails before they reach an \nemployee's inbox. \n4. Enhanced Endpoint Protection \nWith the rise of remote work, securing endpoints (laptops, mobile",
+      "on a symbiotic relationship: human analysts providing strategic oversight and ethical judgment, \naugmented by AI systems handling the heavy lifting of data analysis and rapid threat \ncontainment. Embracing this synergy is not just an option; it is a necessity for surviving the next \ngeneration of cy",
+      "AI-driven Security Orchestration, Automation, and Response (SOAR) platforms can execute \npredefined mitigation strategies without human intervention. For instance, if an AI system"
+    ]
+  },
+  {
+    "type": "short_answer",
+    "difficulty": "medium",
+    "topic": "<short name>",
+    "page_number": 2,
+    "question": "How does AI enhance endpoint protection in ransomware detection?",
+    "answer": "AI-powered endpoint security solutions detect ransomware by analyzing process-level activity, identifying rapid encryption, and rolling back files to their original state.",
+    "solution": "AI models analyze encrypted processes, detect unusual syntax, and flag requests for sensitive data. When ransomware encrypts files rapidly, the AI agent terminates the process and rolls back the files to prevent them from reaching the employee's inbox.",
+    "id": 7,
+    "context_chunks": [
+      "against blacklists, NLP models can detect a sense of manufactured urgency, unusual syntax, or \nrequests for sensitive information, quarantining malicious emails before they reach an \nemployee's inbox. \n4. Enhanced Endpoint Protection \nWith the rise of remote work, securing endpoints (laptops, mobile",
+      "on a symbiotic relationship: human analysts providing strategic oversight and ethical judgment, \naugmented by AI systems handling the heavy lifting of data analysis and rapid threat \ncontainment. Embracing this synergy is not just an option; it is a necessity for surviving the next \ngeneration of cy",
+      "AI-driven Security Orchestration, Automation, and Response (SOAR) platforms can execute \npredefined mitigation strategies without human intervention. For instance, if an AI system"
+    ]
+  },
+  {
+    "type": "short_answer",
+    "difficulty": "medium",
+    "topic": "<short name>",
+    "page_number": 2,
+    "question": "How does AI enhance cybersecurity by detecting threats and automating responses?",
+    "answer": "AI enhances cybersecurity by detecting manufactured urgency, unusual syntax, and ransomware indicators, automating processes like file encryption termination, and executing mitigation strategies through SOAR platforms.",
+    "solution": "AI-driven systems identify threats by analyzing patterns such as rapid encryption or unusual syntax, automating containment actions, and leveraging SOAR platforms to execute predefined mitigation strategies without human intervention, fostering a symbiotic relationship between human oversight and AI automation.",
+    "id": 8,
+    "context_chunks": [
+      "against blacklists, NLP models can detect a sense of manufactured urgency, unusual syntax, or \nrequests for sensitive information, quarantining malicious emails before they reach an \nemployee's inbox. \n4. Enhanced Endpoint Protection \nWith the rise of remote work, securing endpoints (laptops, mobile",
+      "on a symbiotic relationship: human analysts providing strategic oversight and ethical judgment, \naugmented by AI systems handling the heavy lifting of data analysis and rapid threat \ncontainment. Embracing this synergy is not just an option; it is a necessity for surviving the next \ngeneration of cy",
+      "AI-driven Security Orchestration, Automation, and Response (SOAR) platforms can execute \npredefined mitigation strategies without human intervention. For instance, if an AI system"
+    ]
+  },
+  {
+    "type": "true_false",
+    "difficulty": "hard",
+    "topic": "<short name>",
+    "page_number": 2,
+    "question": "True or False? AI can detect and respond to ransomware by encrypting files rapidly.",
+    "answer": "True",
+    "solution": "This is true because the context explicitly states that AI-powered endpoint security solutions monitor process-level activity and can roll back files if ransomware is detected. The example provided in the text aligns with this capability.",
+    "id": 9,
+    "context_chunks": [
+      "against blacklists, NLP models can detect a sense of manufactured urgency, unusual syntax, or \nrequests for sensitive information, quarantining malicious emails before they reach an \nemployee's inbox. \n4. Enhanced Endpoint Protection \nWith the rise of remote work, securing endpoints (laptops, mobile",
+      "on a symbiotic relationship: human analysts providing strategic oversight and ethical judgment, \naugmented by AI systems handling the heavy lifting of data analysis and rapid threat \ncontainment. Embracing this synergy is not just an option; it is a necessity for surviving the next \ngeneration of cy",
+      "affected files to their previous, unencrypted state. \nThe Double-Edged Sword: Challenges of AI in Cyber Security \nWhile AI offers immense defensive capabilities, it is not a silver bullet. The integration of artificial \nintelligence into cybersecurity presents its own set of challenges: \n\u25cf\u200b Adversar"
+    ]
+  },
+  {
+    "type": "true_false",
+    "difficulty": "hard",
+    "topic": "cybersecurity",
+    "page_number": 2,
+    "question": "True or False? AI can detect and respond to ransomware by encrypting files rapidly.",
+    "answer": "True",
+    "solution": "AI-powered endpoint security solutions monitor process-level activity and can roll back affected files to their unencrypted state when ransomware encrypts files rapidly, demonstrating AI's capability to handle such threats effectively.",
+    "id": 10,
+    "context_chunks": [
+      "against blacklists, NLP models can detect a sense of manufactured urgency, unusual syntax, or \nrequests for sensitive information, quarantining malicious emails before they reach an \nemployee's inbox. \n4. Enhanced Endpoint Protection \nWith the rise of remote work, securing endpoints (laptops, mobile",
+      "on a symbiotic relationship: human analysts providing strategic oversight and ethical judgment, \naugmented by AI systems handling the heavy lifting of data analysis and rapid threat \ncontainment. Embracing this synergy is not just an option; it is a necessity for surviving the next \ngeneration of cy",
+      "affected files to their previous, unencrypted state. \nThe Double-Edged Sword: Challenges of AI in Cyber Security \nWhile AI offers immense defensive capabilities, it is not a silver bullet. The integration of artificial \nintelligence into cybersecurity presents its own set of challenges: \n\u25cf\u200b Adversar"
+    ]
+  }
+]

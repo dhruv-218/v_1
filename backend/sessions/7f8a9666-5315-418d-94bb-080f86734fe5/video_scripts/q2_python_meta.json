@@ -1,0 +1,7 @@
+{
+  "question_id": 2,
+  "topic": "Python",
+  "class_name": "Q2_Python",
+  "run_command": "manim -pql q2_python_manim.py Q2_Python",
+  "script_file": "sessions/7f8a9666-5315-418d-94bb-080f86734fe5/video_scripts/q2_python_manim.py"
+}

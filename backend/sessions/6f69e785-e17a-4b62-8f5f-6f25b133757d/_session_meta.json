@@ -1,0 +1,14 @@
+{
+  "id": "6f69e785-e17a-4b62-8f5f-6f25b133757d",
+  "pdf_name": "dhruv_resume_1.pdf",
+  "pdf_path": "sessions/6f69e785-e17a-4b62-8f5f-6f25b133757d/dhruv_resume_1.pdf",
+  "output_dir": "sessions/6f69e785-e17a-4b62-8f5f-6f25b133757d",
+  "status": "ready",
+  "stage": "ready",
+  "progress": 100,
+  "message": "Ready!",
+  "created_at": "2026-04-24T18:51:38.668029",
+  "video_jobs": {
+    "1": "rendered"
+  }
+}
